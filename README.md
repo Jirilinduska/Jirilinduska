@@ -8,5 +8,5 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,firebase,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,firebase,git,github&theme=dark)](https://skillicons.dev)
 
