@@ -3,7 +3,7 @@
 ### I'm Jiří Linduška, junior front-end dev based in Czechia.
 
 - 🔭 I’m currently working on my portfolio projects.
-- 🌱 I’m currently learning React & TypeScript
+- 🌱 I’m currently mastering my React & TypeScript skills.
 
 
 ### Skills
